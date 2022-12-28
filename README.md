@@ -1,3 +1,3 @@
 # Teens-Hub website 
 
-![TEENS HUB Screenshot](./imges/TEENS HUB.png)
+![TEENS HUB Screenshot](./imges/homepage.png)
